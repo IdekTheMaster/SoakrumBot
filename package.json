@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/IdekTheMaster/SoakrumBot/issues"
   },
-  "homepage": "https://github.com/IdekTheMaster/SoakrumBot#readme"
+  "homepage": "https://github.com/IdekTheMaster/SoakrumBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }
