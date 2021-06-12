@@ -1,0 +1,23 @@
+{
+  "name": "soakrum-bot",
+  "version": "1.0.0",
+  "description": "Bot for the Soakrum Network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IdekTheMaster/SoakrumBot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "Idek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IdekTheMaster/SoakrumBot/issues"
+  },
+  "homepage": "https://github.com/IdekTheMaster/SoakrumBot#readme"
+}
